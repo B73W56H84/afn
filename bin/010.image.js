@@ -28,7 +28,7 @@ fs.readdir( DIRECTORY, (error, files) => {
       return data;
     });
 
-    result[ number ] = 'data:image/png:base64,' + base64ed;
+    result[ number ] = 'data:image/png;base64,' + base64ed;
   });
 
   console.log( JSON.stringify( result ) );

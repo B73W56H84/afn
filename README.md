@@ -29,4 +29,4 @@
 
 出題用のJSONファイルを生成
 
-    $ node bin/010.image.js > data/ico.json
+    $ node bin/010.image.js > data/icons.json
