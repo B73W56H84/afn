@@ -1983,5 +1983,115 @@
     "meaning": ["臆病な愛", "乙女のはにかみ", "他"],
     "skill": "散華・プレヌフロレゾン",
     "accessory": "臆病な愛のカチューシャ"
+  },
+  "181": {
+    "name": "ヨモギ",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "ぬいぐるみ",
+    "family": "キク科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["幸福", "平和", "平穏", "他"],
+    "skill": "アルテミス・シュート",
+    "accessory": "幸福と平穏の弓"
+  },
+  "182": {
+    "name": "シンクライリアナ",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "宝石",
+    "family": "キツネノマゴ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["優しい感受性", "他"],
+    "skill": "フルスロットルインパクト",
+    "accessory": "優しい感受性の槍"
+  },
+  "183": {
+    "name": "ナナカマド",
+    "rarity": 4,
+    "attribute": "突",
+    "favorite": "本",
+    "family": "バラ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["慎重", "賢明", "用心", "他"],
+    "skill": "ライトニングアロー",
+    "accessory": "慎重と用心の耳飾り"
+  },
+  "184": {
+    "name": "アスター",
+    "rarity": 5,
+    "attribute": "打",
+    "favorite": "ぬいぐるみ",
+    "family": "キク科",
+    "nationality": "リリィウッド",
+    "meaning": ["変化を好む", "追憶", "記憶", "他"],
+    "skill": "双錘乱舞・天翔旋",
+    "accessory": "変化を好む双錘"
+  },
+  "185": {
+    "name": "カラスウリ",
+    "rarity": 5,
+    "attribute": "斬",
+    "favorite": "ぬいぐるみ",
+    "family": "ウリ科",
+    "nationality": "バナナオーシャン",
+    "meaning": ["よき便り", "誠実", "男嫌い"],
+    "skill": "スピニングシックル",
+    "accessory": "男嫌いの大鎌"
+  },
+  "186": {
+    "name": "サフラン",
+    "rarity": 6,
+    "attribute": "突",
+    "favorite": "宝石",
+    "family": "アヤメ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["節度ある態度", "陽気", "喜び"],
+    "skill": "秘弓・爆散霧消",
+    "accessory": "喜びと陽気のボウガン"
+  },
+  "187": {
+    "name": "ラッセリア",
+    "rarity": 5,
+    "attribute": "打",
+    "favorite": "本",
+    "family": "ゴマノハグサ科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["旅立つのは今", "旅立ち", "他"],
+    "skill": "禁書・鉄拳制裁",
+    "accessory": "旅立ちの魔導書"
+  },
+  "188": {
+    "name": "アロエ",
+    "rarity": 5,
+    "attribute": "斬",
+    "favorite": "ぬいぐるみ",
+    "family": "アロエ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["迷信", "健康", "健やか", "信頼", "他"],
+    "skill": "ウイニング・アロエ",
+    "accessory": "健康と信頼の剣"
+  },
+  "189": {
+    "name": "リリオペ",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "宝石",
+    "family": "ユリ科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["謙遜", "忍耐", "隠された心", "他"],
+    "skill": "ストロム・スプラッシュ",
+    "accessory": "謙遜と忍耐の弓"
+  },
+  "190": {
+    "name": "スノードロップ",
+    "rarity": 6,
+    "attribute": "突",
+    "favorite": "ケーキ",
+    "family": "ヒガンバナ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["逆境のなかの希望", "希望", "他"],
+    "skill": "サテライトフラワーカノン",
+    "accessory": "逆境の中の射突槍"
   }
 }

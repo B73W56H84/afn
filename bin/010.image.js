@@ -28,8 +28,8 @@ fs.readdir( DIRECTORY, (error, files) => {
       return data;
     });
 
-    result[ number ] = 'data:image/png;base64,' + base64ed;
+    result[ number ] = base64ed;
   });
 
-  console.log( JSON.stringify( result ) );
+  console.log( JSON.stringify( result, null, ' ' ) );
 });
