@@ -2881,5 +2881,120 @@
     "meaning": ["あなたに打ち明ける","内気","他"],
     "skill": "弾奏・ビワパラパーラー♪",
     "accessory": "あなたに打ち明ける琵琶"
+  },
+  "261": {
+    "name": "ミカン",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "ケーキ",
+    "family": "ミカン科",
+    "nationality": "リリィウッド",
+    "meaning": ["寛大、気前のよさ、他"],
+    "skill": "クリアリングダーツ",
+    "accessory": "寛大と気前のよさの弓矢"
+  },
+  "262": {
+    "name": "モミジ",
+    "rarity": 5,
+    "costume": "クリスマス",
+    "attribute": "斬",
+    "favorite": "ケーキ",
+    "family": "カエデ科",
+    "nationality": "リリィウッド",
+    "meaning": ["節制、自制、大切な思い出、他"],
+    "skill": "絶剣・聖夜ノ爆葉刃",
+    "accessory": "聖夜の思い出の大剣"
+  },
+  "263": {
+    "name": "シャムサクララン",
+    "rarity": 5,
+    "costume": "クリスマス",
+    "attribute": "斬",
+    "favorite": "宝石",
+    "family": "ガガイモ科",
+    "nationality": "リリィウッド",
+    "meaning": ["恋が成就する、幸福を告げる、他"],
+    "skill": "サンダーアバランチ",
+    "accessory": "聖夜の恋が成就する帽子"
+  },
+  "264": {
+    "name": "ポーチュラ力",
+    "rarity": 6,
+    "attribute": "斬",
+    "favorite": "ケーキ",
+    "family": "スベリヒユ科",
+    "nationality": "バナナオーシャン",
+    "meaning": ["無邪気、いつも元気、自然を愛す"],
+    "skill": "痛快！ツー力イテン斬り！",
+    "accessory": "いつも元気な圏"
+  },
+  "265": {
+    "name": "ワタチョロギ",
+    "rarity": 5,
+    "attribute": "打",
+    "favorite": "本",
+    "family": "シソ科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["あなたに従う、誘惑、他"],
+    "skill": "メリィベリィラッシュ！",
+    "accessory": "あなたに従う杖"
+  },
+  "266": {
+    "name": "アプリコット",
+    "rarity": 5,
+    "costume": "クリスマス",
+    "attribute": "魔",
+    "favorite": "本",
+    "family": "バラ科",
+    "nationality": "ブロッサムヒル",
+    "meaning": ["臆病な愛、乙女のはにかみ、他"],
+    "skill": "セイントクロスコンボ",
+    "accessory": "聖夜の愛のステッキ"
+  },
+  "267": {
+    "name": "イオノシジウム",
+    "rarity": 5,
+    "costume": "クリスマス",
+    "attribute": "突",
+    "favorite": "ケーキ",
+    "family": "ラン科",
+    "nationality": "バナナオーシャン",
+    "meaning": ["容姿端麗"],
+    "skill": "ノエルドルミエール",
+    "accessory": "聖夜と容姿端麗の弓"
+  },
+  "268": {
+    "name": "クリスマスベゴニア",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "ぬいぐるみ",
+    "family": "シュウカイドウ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["愛の告白、あなたについていく、他"],
+    "skill": "ラブリーバラージ",
+    "accessory": "あなたについていくハート"
+  },
+  "269": {
+    "name": "ヒメシャラ",
+    "rarity": 6,
+    "costume": "クリスマス",
+    "attribute": "斬",
+    "favorite": "宝石",
+    "family": "ツバキ科",
+    "nationality": "バナナオーシャン",
+    "meaning": ["謙譲、愛らしさ"],
+    "skill": "聖夜ニ迅ル天華晶",
+    "accessory": "聖夜の愛らしさの鉄扇"
+  },
+  "270": {
+    "name": "スキミア",
+    "rarity": 5,
+    "attribute": "打",
+    "favorite": "宝石",
+    "family": "ミカン科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["清純、寛大"],
+    "skill": "聖灯・ボンバーマッチ",
+    "accessory": "清純と寛大のマッチ"
   }
 }
