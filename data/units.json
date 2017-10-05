@@ -2889,7 +2889,7 @@
     "favorite": "ケーキ",
     "family": "ミカン科",
     "nationality": "リリィウッド",
-    "meaning": ["寛大、気前のよさ、他"],
+    "meaning": ["寛大","気前のよさ","他"],
     "skill": "クリアリングダーツ",
     "accessory": "寛大と気前のよさの弓矢"
   },
@@ -2901,7 +2901,7 @@
     "favorite": "ケーキ",
     "family": "カエデ科",
     "nationality": "リリィウッド",
-    "meaning": ["節制、自制、大切な思い出、他"],
+    "meaning": ["節制","自制","大切な思い出","他"],
     "skill": "絶剣・聖夜ノ爆葉刃",
     "accessory": "聖夜の思い出の大剣"
   },
@@ -2913,7 +2913,7 @@
     "favorite": "宝石",
     "family": "ガガイモ科",
     "nationality": "リリィウッド",
-    "meaning": ["恋が成就する、幸福を告げる、他"],
+    "meaning": ["恋が成就する","幸福を告げる","他"],
     "skill": "サンダーアバランチ",
     "accessory": "聖夜の恋が成就する帽子"
   },
@@ -2924,7 +2924,7 @@
     "favorite": "ケーキ",
     "family": "スベリヒユ科",
     "nationality": "バナナオーシャン",
-    "meaning": ["無邪気、いつも元気、自然を愛す"],
+    "meaning": ["無邪気","いつも元気","自然を愛す"],
     "skill": "痛快！ツー力イテン斬り！",
     "accessory": "いつも元気な圏"
   },
@@ -2935,7 +2935,7 @@
     "favorite": "本",
     "family": "シソ科",
     "nationality": "ベルガモットバレー",
-    "meaning": ["あなたに従う、誘惑、他"],
+    "meaning": ["あなたに従う","誘惑","他"],
     "skill": "メリィベリィラッシュ！",
     "accessory": "あなたに従う杖"
   },
@@ -2947,7 +2947,7 @@
     "favorite": "本",
     "family": "バラ科",
     "nationality": "ブロッサムヒル",
-    "meaning": ["臆病な愛、乙女のはにかみ、他"],
+    "meaning": ["臆病な愛","乙女のはにかみ","他"],
     "skill": "セイントクロスコンボ",
     "accessory": "聖夜の愛のステッキ"
   },
@@ -2970,7 +2970,7 @@
     "favorite": "ぬいぐるみ",
     "family": "シュウカイドウ科",
     "nationality": "ウィンターローズ",
-    "meaning": ["愛の告白、あなたについていく、他"],
+    "meaning": ["愛の告白","あなたについていく","他"],
     "skill": "ラブリーバラージ",
     "accessory": "あなたについていくハート"
   },
@@ -2982,7 +2982,7 @@
     "favorite": "宝石",
     "family": "ツバキ科",
     "nationality": "バナナオーシャン",
-    "meaning": ["謙譲、愛らしさ"],
+    "meaning": ["謙譲","愛らしさ"],
     "skill": "聖夜ニ迅ル天華晶",
     "accessory": "聖夜の愛らしさの鉄扇"
   },
@@ -2993,8 +2993,120 @@
     "favorite": "宝石",
     "family": "ミカン科",
     "nationality": "ベルガモットバレー",
-    "meaning": ["清純、寛大"],
+    "meaning": ["清純","寛大"],
     "skill": "聖灯・ボンバーマッチ",
     "accessory": "清純と寛大のマッチ"
+  },
+  "271": {
+    "name": "オキザリス",
+    "rarity": 5,
+    "costume": "新春",
+    "attribute": "打",
+    "favorite": "本",
+    "family": "カタバミ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["輝く心","心で感じる","他"],
+    "skill": "紅白傘・二色ノ嵐",
+    "accessory": "新春の心で感じる紅白傘"
+  },
+  "272": {
+    "name": "ユズリハ",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "ぬいぐるみ",
+    "family": "ユズリハ科",
+    "nationality": "リリィウッド",
+    "meaning": ["若返り","世代交代","他"],
+    "skill": "受け継がれし紅蓮の刃",
+    "accessory": "若返りの宝珠"
+  },
+  "273": {
+    "name": "アイビー",
+    "rarity": 6,
+    "costume": "新春",
+    "attribute": "打",
+    "favorite": "ケーキ",
+    "family": "ウコギ科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["不死","不滅","永遠の愛"],
+    "skill": "不死鳥天駆・桜花旋豪嵐",
+    "accessory": "新春の不滅の黄金杵"
+  },
+  "274": {
+    "name": "オリーブ",
+    "rarity": 5,
+    "attribute": "斬",
+    "favorite": "宝石",
+    "family": "モクセイ科",
+    "nationality": "ウィンターローズ",
+    "meaning": ["平和","知恵","安らぎ","他"],
+    "skill": "平和と安らぎの二閃",
+    "accessory": "平和と安らぎの双剣"
+  },
+  "275": {
+    "name": "ローダンセ",
+    "rarity": 5,
+    "attribute": "斬",
+    "favorite": "ぬいぐるみ",
+    "family": "キク科",
+    "nationality": "ブロッサムヒル",
+    "meaning": ["光輝","飛翔","終わりのない友情","他"],
+    "skill": "光輝飛翔・ツインドライヴ",
+    "accessory": "終わりのない友情の胸花"
+  },
+  "276": {
+    "name": "セリ",
+    "rarity": 5,
+    "attribute": "打",
+    "favorite": "宝石",
+    "family": "セリ科",
+    "nationality": "バナナオーシャン",
+    "meaning": ["貧しくても高潔","清廉で高潔"],
+    "skill": "高潔なる鉄槌「白の棘」",
+    "accessory": "貧しくても高潔の耳飾り"
+  },
+  "277": {
+    "name": "ユキノシタ",
+    "rarity": 5,
+    "attribute": "打",
+    "favorite": "ケーキ",
+    "family": "ユキノシタ科",
+    "nationality": "リリィウッド",
+    "meaning": ["軽口","愛情","切実な愛情","他"],
+    "skill": "雪下白虎ノ咆哮",
+    "accessory": "軽口と愛情の手袋"
+  },
+  "278": {
+    "name": "ゴギョウ",
+    "rarity": 6,
+    "attribute": "打",
+    "favorite": "ぬいぐるみ",
+    "family": "キク科",
+    "nationality": "ベルガモットバレー",
+    "meaning": ["永遠の想い","無償の愛","優しい人"],
+    "skill": "御形召喚術·七草乙女団",
+    "accessory": "無償の愛の念珠"
+  },
+  "279": {
+    "name": "ハコベラ",
+    "rarity": 5,
+    "attribute": "斬",
+    "favorite": "ぬいぐるみ",
+    "family": "ナデシコ科",
+    "nationality": "ブロッサムヒル",
+    "meaning": ["逢い引き","ランデブー","密会","他"],
+    "skill": "追走プリティカッター",
+    "accessory": "逢い引きと密会の回転鋸"
+  },
+  "280": {
+    "name": "アナベル",
+    "rarity": 5,
+    "attribute": "突",
+    "favorite": "ケーキ",
+    "family": "アジサイ科",
+    "nationality": "リリィウッド",
+    "meaning": ["ひたむきな愛","辛抱強い愛情","他"],
+    "skill": "神速のスパイラルスピア",
+    "accessory": "ひたむきな愛のスピア"
   }
 }
